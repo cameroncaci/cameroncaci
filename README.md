@@ -1,4 +1,4 @@
-Supporting USTRANSCOM on the MilMove project.
+Supporting United States Transportation Command HQ (USTRANSCOM) on the MilMove project.
 
 Keep on keeping on ☕
 
